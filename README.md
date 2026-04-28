@@ -298,8 +298,11 @@ jupyter notebook
 
 | Name | Role |
 |---|---|
-| Dadi Dinesh | Data Engineering, EDA, Statistical Analysis |
-| Team E_G17 | Project Design, Insights, Documentation |
+| Himani Pinjani | Project Design, Insights, Documentation |
+| Agrima Ojha | Data Engineering, EDA |
+| Dadi Dinesh | Statistical Analysis, Data Pipeline |
+| Anurag Pandey | Exploratory Analysis, Visualizations |
+| Vedant Satbhai | Data Cleaning, KPI Preparation |
 
 ---
 
