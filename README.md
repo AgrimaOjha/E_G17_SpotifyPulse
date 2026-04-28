@@ -298,12 +298,11 @@ jupyter notebook
 
 | Name | Role |
 |---|---|
+| Agrima Ojha | KPI Preparation & Dashboard Load |
 | Himani Pinjani | Data Cleaning & Preprocessing |
-| Agrima Ojha | Exploratory Data Analysis & Visualizations |
 | Dadi Dinesh | Data Engineering & Pipeline Architecture |
-| Anurag Pandey | KPI Preparation & Dashboard Load |
+| Anurag Pandey | Exploratory Data Analysis & Visualizations |
 | Vedant Satbhai | Statistical Analysis & Report |
-
 ---
 
 <div align="center">
