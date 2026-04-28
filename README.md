@@ -298,11 +298,11 @@ jupyter notebook
 
 | Name | Role |
 |---|---|
-| Himani Pinjani | Project Design, Insights, Documentation |
-| Agrima Ojha | Data Engineering, EDA |
-| Dadi Dinesh | Statistical Analysis, Data Pipeline |
-| Anurag Pandey | Exploratory Analysis, Visualizations |
-| Vedant Satbhai | Data Cleaning, KPI Preparation |
+| Himani Pinjani | Data Cleaning & Preprocessing |
+| Agrima Ojha | Exploratory Data Analysis & Visualizations |
+| Dadi Dinesh | Data Engineering & Pipeline Architecture |
+| Anurag Pandey | KPI Preparation & Dashboard Load |
+| Vedant Satbhai | Statistical Analysis & Report |
 
 ---
 
