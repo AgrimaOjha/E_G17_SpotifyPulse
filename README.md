@@ -159,7 +159,6 @@ SpotifyPulse/
 │ └── data_dictionary.md
 │
 └── README.md
----## 👥 Team G-17| Name | Role ||------|-----|| Agrima Ojha | Project Lead, ETL, Dashboard || Himani Pinjani | EDA & Analysis || Anurag Pandey | Statistical Analysis || Dadidinesh | Dataset & Report || Ritesh Kumar | Statistical Analysis || Vedant Satbhai | Statistical Analysis |---## 📌 ConclusionSpotifyPulse provides a comprehensive understanding of **user churn and engagement dynamics**, enabling businesses to take **data-driven decisions to improve retention and user experience**.---
 
 
 ---
